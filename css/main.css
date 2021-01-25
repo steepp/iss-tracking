@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0px;
+}
+
+html, body, #mapid {
+	height: 100%;
+	width: 100%;
+}
